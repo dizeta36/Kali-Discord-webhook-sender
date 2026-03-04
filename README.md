@@ -27,4 +27,4 @@ This project requires **Python** and the following libraries:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/dizeta36/Kali-Discord-webhook-sender.git
-   cd KaliWebhookSender
+   
